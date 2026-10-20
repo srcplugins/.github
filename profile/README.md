@@ -8,7 +8,7 @@ We build simple, focused plugins that make the software you already use more use
 
 ## License
 
-Plugin source code is published under the [PolyForm Internal Use License 1.0.0](https://polyformproject.org/licenses/internal-use/1.0.0).
+Plugin source code is published under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0). The [test framework](https://github.com/srcplugins/atlassian-forge-test-framework) the plugins are tested with is under the [PolyForm Internal Use License 1.0.0](https://polyformproject.org/licenses/internal-use/1.0.0).
 
 ## Have an idea?
 
